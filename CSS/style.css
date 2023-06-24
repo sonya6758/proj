@@ -1,0 +1,46 @@
+body {
+    font-family: sans-serif;
+}
+
+h1 {
+    font-size: 40px;
+    color:#481677;
+}
+
+.inf{
+    font-size: 20px;
+    font-weight: 700;
+    color:#481677;
+}
+
+p{
+    width: 70%;
+}
+
+main{
+   margin-left: 180px;
+}
+nav a{position: absolute;
+left: -80px;
+transition: 0.3s;
+padding: 15px;
+width: 100px;
+text-decoration: none;
+font-size: 20px;
+color:a0d3fd;
+border-radius: 0 5px 5px 0;}
+nav a:hover{
+    left: 0;
+}
+.about{ 
+    top:20px;
+    
+}
+.blog{ 
+    top:80px;
+    
+}
+.projects{ 
+    top:140px;
+   
+}
